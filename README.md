@@ -15,3 +15,5 @@ After running the image, the correct files will be sourced and the catkin worksp
 
 ## Usage
 This should work just like any other TagSLAM install, refer to the [documentation from the official repo](https://berndpfrommer.github.io/tagslam_web/).
+
+#### If you are for some reason, reading this from the repo instead of the package page, access the package page [here](https://github.com/RaameshB/tagslam-docker/pkgs/container/tagslam).
